@@ -15,4 +15,13 @@ h1{
 
 nav{
     font-variant:small-caps;
+    font-family:Arial,"Time New Roman", serif;
+}
+
+details{
+    font-style:italic;
+}
+
+footer{
+    background: #666666;
 }
